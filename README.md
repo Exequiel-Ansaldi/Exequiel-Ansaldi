@@ -42,7 +42,7 @@
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Exequiel-Ansaldi/utilities-python"><b>Text Processing Tools</b></a></td>
+      <td><a href="https://github.com/Exequiel-Ansaldi/TRANSCRIPCION"><b>Text Processing Tools</b></a></td>
       <td>File handling & string processing</td>
       <td>Python</td>
     </tr>
