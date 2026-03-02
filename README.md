@@ -68,19 +68,18 @@
 </p>
 
 
-## 📈 Github Stats
+## 📈 GitHub Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Exequiel-Ansaldi&show_icons=true&count_private=true" />
 </details>
 
 <details> 
-  <summary>💻 Most used languages</summary>
+  <summary>💻 Most Used Languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exequiel-Ansaldi&langs_count=6&layout=compact" />
   <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+  <b>Note:</b> This chart reflects the languages used in public repositories.
 </details>
