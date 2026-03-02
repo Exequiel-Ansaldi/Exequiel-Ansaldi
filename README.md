@@ -60,10 +60,14 @@
 ## 👨‍💻 Languages and Tools:
 
 <p>
-<img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
-<img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-<img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png">
-<img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
-<img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
 </p>
 
