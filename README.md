@@ -67,19 +67,3 @@
 <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
 </p>
 
-
-## 📈 GitHub Stats
-
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Exequiel-Ansaldi&show_icons=true&count_private=true" />
-</details>
-
-<details> 
-  <summary>💻 Most Used Languages</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exequiel-Ansaldi&langs_count=6&layout=compact" />
-  <br/>
-  <b>Note:</b> This chart reflects the languages used in public repositories.
-</details>
