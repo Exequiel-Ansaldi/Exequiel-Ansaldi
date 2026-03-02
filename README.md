@@ -54,7 +54,7 @@
       <td>Problem solving exercises</td>
       <td>Python & Java </td>
    <tr>
-      <td><a href="https://github.com/Exequiel-Ansaldi/NOMBRE-DEL-REPO-POO"><b>Restaurant Management System</b></a></td>
+      <td><a href="https://github.com/Exequiel-Ansaldi/POO-proyecto"><b>Restaurant Management System</b></a></td>
       <td>OOP, UML modeling, reservations, roles, business logic</td>
       <td>Java</td>
     </tr>
