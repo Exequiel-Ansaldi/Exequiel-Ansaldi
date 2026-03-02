@@ -52,7 +52,7 @@
     <tr>
       <td><a href="https://github.com/Exequiel-Ansaldi/small-projects"><b>Utility Programs</b></a></td>
       <td>Problem solving exercises</td>
-      <td>Python</td>
+      <td>Python & Java </td>
     </tr>
   </tbody>
 </table>
