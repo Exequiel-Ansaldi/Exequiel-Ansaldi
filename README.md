@@ -4,15 +4,27 @@
 
 ## 📖 About me
 
-* 💻 3rd year Systems Engineering student
+* 💻 3rd year Systems Engineering student at UNER FCAD
 * 🎨 Interested in software development and problem solving
 * 📚 Academic background in programming, databases and analysis
+* 🌱 Currently working with TypeScript, React and Node.js
 
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/Exequiel-Ansaldi/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exequiel-Ansaldi"/>
+  <a href="https://streak-stats.demolab.com/">
+    <img src="https://streak-stats.demolab.com/?user=Exequiel-Ansaldi"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Exequiel-Ansaldi&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exequiel-Ansaldi&layout=compact&theme=transparent&hide_border=true"/>
   </a>
 </p>
 
@@ -40,6 +52,26 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Exequiel-Ansaldi/sistema-escolar"><b>School Management System</b></a></td>
+      <td>Full-stack school management: courses, enrollments and roles</td>
+      <td>TypeScript, NestJS, Prisma, React & PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Exequiel-Ansaldi/SmartRoute"><b>SmartRoute</b></a></td>
+      <td>Route optimization over a real road graph with interactive dashboard</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Exequiel-Ansaldi/student-management"><b>SIU-FCAD</b></a></td>
+      <td>Web app for managing enrollments, courses and students</td>
+      <td>JavaScript, Node.js, Express & PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Exequiel-Ansaldi/POO-proyecto"><b>Restaurant Management System</b></a></td>
+      <td>OOP, UML modeling, reservations, roles, business logic</td>
+      <td>Java</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Exequiel-Ansaldi/estructuras-de-datos"><b>Data Structures Practices</b></a></td>
       <td>Recursion, lists, algorithms</td>
       <td>Python</td>
@@ -52,11 +84,7 @@
     <tr>
       <td><a href="https://github.com/Exequiel-Ansaldi/ejercicios"><b>Utility Programs</b></a></td>
       <td>Problem solving exercises</td>
-      <td>Python & Java </td>
-   <tr>
-      <td><a href="https://github.com/Exequiel-Ansaldi/POO-proyecto"><b>Restaurant Management System</b></a></td>
-      <td>OOP, UML modeling, reservations, roles, business logic</td>
-      <td>Java</td>
+      <td>Python & Java</td>
     </tr>
   </tbody>
 </table>
@@ -66,6 +94,12 @@
 <p>
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
@@ -74,4 +108,3 @@
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg">
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
 </p>
-
