@@ -21,10 +21,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Exequiel-Ansaldi&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Exequiel-Ansaldi&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exequiel-Ansaldi&layout=compact&theme=transparent&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Exequiel-Ansaldi&layout=compact&theme=transparent&hide_border=true"/>
   </a>
 </p>
 
