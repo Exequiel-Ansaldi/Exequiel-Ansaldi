@@ -9,22 +9,22 @@
 * 📚 Academic background in programming, databases and analysis
 * 🌱 Currently working with TypeScript, React and Node.js
 
-## 🔥 My contribution streak
+## ⚡ GitHub Stats
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com/">
-    <img src="https://streak-stats.demolab.com/?user=Exequiel-Ansaldi"/>
+<p align="left">
+  <a href="https://github.com/Exequiel-Ansaldi?tab=followers">
+    <img alt="Followers"
+    src="https://img.shields.io/github/followers/Exequiel-Ansaldi?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717"/>
   </a>
-</p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Exequiel-Ansaldi&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+  <a href="https://github.com/Exequiel-Ansaldi?tab=repositories">
+    <img alt="Public Repos"
+    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FExequiel-Ansaldi&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=181717"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Exequiel-Ansaldi&layout=compact&theme=transparent&hide_border=true"/>
+
+  <a href="https://github.com/Exequiel-Ansaldi">
+    <img alt="Stars"
+    src="https://img.shields.io/github/stars/Exequiel-Ansaldi?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=181717"/>
   </a>
 </p>
 
