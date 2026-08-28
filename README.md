@@ -52,7 +52,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/raynarg/SIU-FCAD"><b>School Management System</b></a></td>
+      <td><a href="https://github.com/Exequiel-Ansaldi/sistema-escolar"><b>School Management System</b></a></td>
       <td>Full-stack school management: courses, enrollments and roles</td>
       <td>TypeScript, NestJS, Prisma, React & PostgreSQL</td>
     </tr>
@@ -62,7 +62,7 @@
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Exequiel-Ansaldi/student-management"><b>SIU-FCAD</b></a></td>
+      <td><a href="https://github.com/raynarg/SIU-FCAD"><b>SIU-FCAD</b></a></td>
       <td>Web app for managing enrollments, courses and students</td>
       <td>JavaScript, Node.js, Express & PostgreSQL</td>
     </tr>
